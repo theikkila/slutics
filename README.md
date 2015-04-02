@@ -1,0 +1,2 @@
+# slutics
+Simple analytics service
